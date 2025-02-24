@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** file for your project:  
-
----
-
 # **Smart Solar Energy Management**  
 ### *Automated Diversion of Excess Solar Power to Home Heating Systems*  
 
@@ -194,9 +190,3 @@ Special thanks to:
 
 ### **📩 Questions or Contributions?**  
 👨‍💻 Feel free to **open an issue** or **submit a pull request** on GitHub!  
-
-🚀 Happy Hacking!  
-
----
-
-This README provides everything needed for setup, operation, and troubleshooting. You can modify the placeholders (e.g., API endpoints, image URLs) before uploading to GitHub. Let me know if you need any refinements! 🚀
