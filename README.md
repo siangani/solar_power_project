@@ -5,7 +5,7 @@ Here's a well-structured **README.md** file for your project:
 # **Smart Solar Energy Management**  
 ### *Automated Diversion of Excess Solar Power to Home Heating Systems*  
 
-![Project Banner](https://your-image-url-here) *(Optional: Add an image showcasing the system setup)*  
+
 
 ## **📌 Overview**  
 This project aims to **maximize solar self-consumption** by automatically detecting surplus solar energy and diverting it to existing electric heaters. Instead of exporting excess power to the grid (often with low or no financial return), the system **intelligently switches on home heaters**, ensuring efficient energy utilization and reduced electricity bills.  
@@ -21,7 +21,6 @@ This project aims to **maximize solar self-consumption** by automatically detect
 ---
 
 ## **🖥️ System Architecture**  
-![System Diagram](https://your-diagram-url-here) *(Optional: Add a diagram to visualize the setup)*  
 
 ### **🔄 Workflow**  
 1️⃣ **Monitor Solar Power & Grid Export**  
